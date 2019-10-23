@@ -2,15 +2,15 @@ PODS:
   - WCKit (0.0.1)
 
 DEPENDENCIES:
-  - WCKit (from `../`)
+  - WCKit
 
-EXTERNAL SOURCES:
-  WCKit:
-    :path: "../"
+SPEC REPOS:
+  trunk:
+    - WCKit
 
 SPEC CHECKSUMS:
   WCKit: cda2dc4a4b118c364b7f8be26ee640d6cd3a5951
 
-PODFILE CHECKSUM: 50c1994536800a224568d76a9c644cae07d9cc40
+PODFILE CHECKSUM: c4db84777b59d1d1d3f11a3972d1bbfae8ce41b6
 
 COCOAPODS: 1.8.4
