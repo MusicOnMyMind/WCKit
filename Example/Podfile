@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WCKit_Example' do
+  pod 'WCKit', :path => '../'
+
+  target 'WCKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
