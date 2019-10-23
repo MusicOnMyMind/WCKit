@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WCKit'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'A convenient kit of iOS development'
 
 # This description is used to generate tags and improve search results.
